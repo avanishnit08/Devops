@@ -4,4 +4,8 @@ This is the bug fix in the development branch
 This is gadbad code
 This feature will gadbad everything from now
 This is first feature of our application
+<<<<<<< HEAD
 
+=======
+this change is done on github
+>>>>>>> 42f016a0fa3a8ebca13a6e7ce530370f2776a382
