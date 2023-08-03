@@ -9,3 +9,4 @@ This is first feature of our application
 =======
 this change is done on github
 >>>>>>> 42f016a0fa3a8ebca13a6e7ce530370f2776a382
+line2 >> After bug fixing, this is the new feature with minor alteration
